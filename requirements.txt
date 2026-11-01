@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+sqlalchemy
+chromadb
+langchain-core
+langchain-community
+langchain-ollama
+fastembed
